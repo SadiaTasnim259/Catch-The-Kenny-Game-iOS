@@ -1,1 +1,1 @@
-# Catch-The-Kenny-Game-iOS
+# Catch The Kenny (Game-iOS)
