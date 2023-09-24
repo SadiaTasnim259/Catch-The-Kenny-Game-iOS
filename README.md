@@ -1,5 +1,5 @@
 # Catch The Kenny (Game-iOS)
-
+Mini Game
 ## What is it?
 - Catch The Kenny is a mini game.
 - Have to catch kenny and score.
