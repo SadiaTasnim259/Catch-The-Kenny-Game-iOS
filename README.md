@@ -5,6 +5,6 @@
 - Have to catch kenny and score.
 
 ## Screenshots and App Walkthrough
-| App Walkthrough |
-| --- |
-| <p align="center"><img src="CatchTheKennyGame.gif" height="450"/></p> |
+| App Walkthrough | Home Screen |
+| --- |--- |
+| <p align="center"><img src="CatchTheKennyGame.gif" height="450"/></p> | <p align="center"><img src=" " height="450"/></p> | 
